@@ -1,5 +1,5 @@
 # Awesome Java [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+Insertion
 A curated list of awesome Java frameworks, libraries and software.
 
 ## Contents
